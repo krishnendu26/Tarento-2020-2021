@@ -1,4 +1,5 @@
-"""Read an array of words as user input (do not hardcode input) and print all 2 word combinations possible without any duplications. Ex: Input [one, two, three ] Output: [one-two, one-three, two-one, two-three, three-one, three-two]"""
+
+//Read an array of words as user input (do not hardcode input) and print all 2 word combinations possible without any duplications. Ex: Input [one, two, three ] Output: [one-two, one-three, two-one, two-three, three-one, three-two]
 #include <stdio.h>
 #include <string.h>
 
